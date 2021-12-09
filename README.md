@@ -1,5 +1,5 @@
 # Customize Termux
-##Command
+## Command
 ```
 apt install bash
 ```
