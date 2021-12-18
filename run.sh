@@ -1,10 +1,10 @@
 clear
-cp /data/data/com.termux/files/home/CustomizeTermux/bash.bashrc /data/data/com.termux/files/usr/etc/
+cp /data/data/com.termux/files/home/TermuxTheme/bash.bashrc /data/data/com.termux/files/usr/etc/
 sleep 5s
 echo 
 echo 
 echo
-berhasil:)
+echo berhasil:)
 echo
 sleep 3s
 echo login..
