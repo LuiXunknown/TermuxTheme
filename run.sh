@@ -5,10 +5,6 @@ echo
 echo 
 echo berhasil...
 echo
-sleep 3s
-echo
-echo
-echo berhasil...
 echo login...
 sleep 7s
 
