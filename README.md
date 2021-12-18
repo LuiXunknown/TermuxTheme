@@ -29,6 +29,10 @@ git clone https://github.com/L0rdK1r422/CustomizeTermux
 ```
 bash run.sh
 ```
+### 📸 SCREENSHOT
+
+![Gpp jelek yg penting bikinan sendiri yahaha ^.^](https://raw.githubusercontent.com/L0rdK1r422/TermuxTheme/main/20211218_175014.jpg?raw=true)
+
 ### PM ME ON
 
 <b>• [Whatsapp](https://bit.ly/3GQHTp2)</b>
