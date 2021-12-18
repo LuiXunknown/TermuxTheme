@@ -3,12 +3,14 @@ cp /data/data/com.termux/files/home/TermuxTheme/bash.bashrc /data/data/com.termu
 sleep 5s
 echo 
 echo 
-echo
-echo berhasil:)
+echo berhasil...
 echo
 sleep 3s
-echo login..
-
+echo
+echo
+echo berhasil...
+echo login...
+sleep 7s
 
 login
 
