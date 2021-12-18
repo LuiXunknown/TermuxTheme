@@ -3,10 +3,10 @@
 </h1>
 <p align="center">
 <a href="#"><img title="Coded by Kira" src="https://img.shields.io/badge/coded-by%20Kira-red?"></a>
-# Customize Termux
+
 ## Command
 
-```python
+```
 apt install bash
 ```
 ``` 
