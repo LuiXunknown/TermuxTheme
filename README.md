@@ -37,6 +37,6 @@ bash run.sh
 
 <b>• [Whatsapp](https://bit.ly/3GQHTp2)</b>
 <br>
-<b>• [Telegram](https://t.me/@zedkid699)</b>
+<b>• [Telegram](https://t.me/zedkid699)</b>
 </br>
 
