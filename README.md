@@ -24,7 +24,7 @@
 apt install bash
 ```
 ``` 
-git clone https://github.com/L0rdK1r422/TermuxTheme
+git clone https://github.com/flucif3r/TermuxTheme
 ```
 ```
 bash run.sh
